@@ -9,6 +9,7 @@ on:
     branches: [ "wk06" ]
     paths:
       - "backend/**"
+  workflow_dispatch:
 
 
 jobs:
